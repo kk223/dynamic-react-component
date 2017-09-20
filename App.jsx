@@ -1,5 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import ConversationBoard from './src/components/ConversationBoard.jsx';
+import Introduction from './src/view/wipro_login.jsx';
 
-ReactDOM.render(<ConversationBoard/>, document.getElementById('approot'));
+ReactDOM.render(<Introduction/>, document.getElementById('approot'));
